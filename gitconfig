@@ -1,0 +1,14 @@
+[user]
+	email = dkafle@gmail.com
+	name = Deepak Kafle
+
+[alias]
+  co = checkout
+  s = status
+  d = diff
+  dw = diff --color-words
+  dc = diff --cached
+  recommit = commit --amend --reuse-message=HEAD
+  l = log --decorate-full
+  g = grep
+
